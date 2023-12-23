@@ -14,10 +14,10 @@
     
     "IntervalClick"           : 5,
     
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Banner"            : "ca-app-pub-8959071608776703/3979184947",
+    "AdMob_InterstitialAd"    : "ca-app-pub-8959071608776703/9686807195",
     "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_Native"            : "ca-app-pub-8959071608776703/2406835554",
     
     "Facebook_Banner"         : "692961278482629_692963411815749",
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
@@ -38,8 +38,8 @@
     
     "PrivacyUrl"              : "https://sites.google.com/view/devghali/",
     "webUrl"                  : "https://app-ghali.store/",
-    "URL1"                    : "https://server10.mp3quran.net/jleel/",
-    "OnesignalKey"            : "c24ba096-5e9b-41e7-9965-855813170bdb"
+    "URL1"                    : "https://server7.mp3quran.net/s_gmd/",
+    "OnesignalKey"            : "69e701ec-c33a-44bb-acac-5430319f31fd"
 
   },
   
